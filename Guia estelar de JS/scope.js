@@ -1,4 +1,3 @@
-<script>
   // var é global e, também local
 
   console.log("> existe x antes do bloco? ", x);
@@ -27,4 +26,3 @@
   }
 
   */
-</script>

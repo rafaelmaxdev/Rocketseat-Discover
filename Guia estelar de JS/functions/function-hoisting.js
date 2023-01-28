@@ -1,5 +1,3 @@
-// function hoisting
-
 sayMyName();
 
 function sayMyName() {

@@ -1,4 +1,3 @@
-<script>
   // Variáveis e tipos de dados
   // declaração or declaration
   var name;
@@ -25,4 +24,3 @@
 
   //interpolando valores com template literals or template strings
   console.log(`o ${name} tem ${age} anos.`);
-</script>

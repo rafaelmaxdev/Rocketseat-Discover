@@ -1,4 +1,3 @@
-// Array
 const animals = [
   "Lion",
   "Monkey",

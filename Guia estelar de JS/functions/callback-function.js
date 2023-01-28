@@ -1,5 +1,3 @@
-// callback function
-
 function sayMyName(name) {
   console.log("antes de executar a função callback");
 

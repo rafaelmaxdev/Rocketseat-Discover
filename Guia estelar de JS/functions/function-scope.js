@@ -1,4 +1,3 @@
-// function scope
 let subject;
 
 function createThink() {
