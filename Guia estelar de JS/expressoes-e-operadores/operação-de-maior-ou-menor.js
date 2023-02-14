@@ -1,5 +1,5 @@
-let one = 1
-let two = 2
+let one = 1;
+let two = 2;
 //  >       Maior que
 // console.log( one > two) // false
 

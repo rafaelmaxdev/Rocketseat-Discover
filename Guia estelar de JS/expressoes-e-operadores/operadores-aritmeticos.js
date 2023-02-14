@@ -11,19 +11,19 @@
 // console.log(34 - 23) // 11
 
 // resto da divisão %
-let remainder
-remainder = 11 % 9
+let remainder;
+remainder = 11 % 9;
 // console.log(remainder) // 2
 
 // incremento ++
-let increment = 0
-increment++
+let increment = 0;
+increment++;
 // console.log(increment) // 1
 
 // decremento --
-let decrement = 0
-decrement--
+let decrement = 0;
+decrement--;
 // console.log(decrement) // -1
 
 // exponencial **
-console.log(2 ** 3) // 8
+console.log(2 ** 3); // 8

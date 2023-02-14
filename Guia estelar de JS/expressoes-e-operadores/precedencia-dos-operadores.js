@@ -12,4 +12,4 @@
 * assignment (atribuição) = += -= *=
 */
 
-console.log(3 > 2 && 2 > 1) // true
+console.log(3 > 2 && 2 > 1); // true

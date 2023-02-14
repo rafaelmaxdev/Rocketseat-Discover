@@ -1,10 +1,10 @@
 const person = {
-  name:'Rafael',
+  name: "Rafael",
   age: 13,
-}
+};
 
-delete person.age
+delete person.age;
 
-console.log(person)
+console.log(person);
 
 // console.log(typeof 'Rafael') // string

@@ -33,4 +33,4 @@
 */
 
 // Qualquer valor acima em um loop ou uma condição resultará em true
-console.log( Infinity ? 'verdadeiro' : 'falso') // verdadeiro
+console.log(Infinity ? "verdadeiro" : "falso"); // verdadeiro

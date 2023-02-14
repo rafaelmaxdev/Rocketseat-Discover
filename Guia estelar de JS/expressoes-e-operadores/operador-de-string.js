@@ -3,6 +3,6 @@
 
 // concatenation (concatenação)
 // Retorna a união de duas Strings
-let alpha = 'alpha'
-alpha += 'bet'
-console.log(alpha + 's')
+let alpha = "alpha";
+alpha += "bet";
+console.log(alpha + "s");
